@@ -35,16 +35,16 @@ const Footer = () => {
           <h3 className="text-xl font-bold">Important Links</h3>
           <ul className="flex flex-col gap-1 text-gray-50">
             <li>
-              <a href="#">Home</a>
+              <Link>Home</Link>
             </li>
             <li>
-              <a href="#">Shop</a>
+              <Link>Shop</Link>
             </li>
             <li>
-              <a href="#">About</a>
+              <Link>About</Link>
             </li>
             <li>
-              <a href="#">News</a>
+              <Link>News</Link>
             </li>
           </ul>
         </div>
